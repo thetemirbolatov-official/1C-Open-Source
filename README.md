@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![1C](https://img.shields.io/badge/Platform-1C%20Enterprise%208-red)](https://1c.ru)
-[![GitHub stars](https://img.shields.io/github/stars/thetemirbolatov-official/cash-management?style=social)](https://github.com/thetemirbolatov-official/1-Open-Source)
+[![GitHub stars](https://img.shields.io/github/stars/thetemirbolatov-official/1C-Open-Source?style=social)](https://github.com/thetemirbolatov-official/1C-Open-Source)
 
 Добро пожаловать в репозиторий учебной конфигурации **"Управление кассой"**! 🚀 Это мой первый opensource-проект на платформе **1С:Предприятие 8**. Конфигурация создана с нуля в учебных целях для демонстрации базовых механизмов учета: справочники, документы, регистры и отчеты.
 
